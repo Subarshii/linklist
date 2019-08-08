@@ -23,4 +23,7 @@ public class Node {
     public Node(String value) {
         this.value = value;
     }
+
+    public Node() {
+    }
 }
